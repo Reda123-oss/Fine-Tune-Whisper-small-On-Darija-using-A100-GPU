@@ -1,0 +1,1 @@
+# Fine-Tune-Whisper-small-On-Darija-using-A100-GPU

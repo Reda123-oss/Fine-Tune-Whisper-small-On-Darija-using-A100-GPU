@@ -1,0 +1,8 @@
+full_dataset/
+data/
+models/
+*.arrow
+*.parquet
+*.bin
+*.pt
+*.safetensors

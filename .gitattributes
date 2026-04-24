@@ -1,0 +1,8 @@
+full_dataset/
+*.arrow
+*.parquet
+*.pt
+*.bin
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
